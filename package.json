@@ -12,7 +12,7 @@
   "dependencies": {
     "bootstrap": "^5.0.0-beta2",
     "firebase": "^8.10.1",
-    "framer-motion": "^4.0.0",
+    "framer-motion": "^4.1.17",
     "react": "^17.0.1",
     "react-bootstrap": "^1.5.2",
     "react-countdown": "^2.3.1",
